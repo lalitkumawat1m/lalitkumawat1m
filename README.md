@@ -7,6 +7,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>  
 
+
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=lalitkumawat1m&&style=flat-square" align="center" />
+</div>  
+
 - 🌱 I’m currently learning MERN, DSA, Mobile Development  
   
 
@@ -99,7 +104,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lalitkumawat1m&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<!-- 
 <br/>  
 
 
@@ -110,11 +115,8 @@
 
   
 
-<br/>  
+<br/>   -->
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=lalitkumawat1m&&style=flat-square" align="center" />
-</div>  
 <!--   
 
 <br/>  
