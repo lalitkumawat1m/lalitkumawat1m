@@ -27,7 +27,7 @@
 <br/>  
 
 
-## My Skill Set  
+##  💻 My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -107,12 +107,31 @@
 
 <br/>  
 
-
-## Github Stats  
+<!-- 
+## 📊 Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lalitkumawat1m&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+ -->
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lalitkumawat1m&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lalitkumawat1m&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkumawat1m&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=lalitkumawat1m)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lalitkumawat1m&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lalitkumawat1m&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkumawat1m&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=lalitkumawat1m&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
