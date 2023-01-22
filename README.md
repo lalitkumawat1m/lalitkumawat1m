@@ -29,7 +29,7 @@
 
 ## GitHub Skyline
 
-[![Watch the video](https://user-images.githubusercontent.com/99037494/211723237-31186fb0-f216-4d5c-aa84-26b5c54ada10.png)](https://skyline.github.com/lalitkumawat1m/2022)
+[![Watch the video]()](https://skyline.github.com/lalitkumawat1m/2022)
 
 <hr>
 
