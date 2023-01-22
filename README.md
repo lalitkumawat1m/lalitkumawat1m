@@ -90,6 +90,7 @@
  <a href="https://hashnode.com/@https://hashnode.com/@lalitkumawat1m" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>  
+  
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/techkinglalit)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/techkinglalit)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lalit-kumawat-323700221/)
@@ -104,35 +105,9 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lalitkumawat1m&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<!-- 
-<br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>   -->
-
-<!--   
-
-<br/>  
-
-
-<br /> -->
-
-<!-- ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
- -->
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=lalitkumawat1m)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-
