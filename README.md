@@ -84,11 +84,11 @@
 
 ## 🌐 Socials:
 <div align="left">
-<a href="https://github.com/https://github.com/lalitkumawat1m" target="_blank">
+<a href="https://github.com/lalitkumawat1m" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
- <a href="https://hashnode.com/@https://hashnode.com/@lalitkumawat1m" target="_blank">
-<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
+ <a href="https://hashnode.com/@lalitkumawat1m" target="_blank">
+<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>  
   
   [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/techkinglalit)
