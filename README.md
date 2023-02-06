@@ -30,7 +30,6 @@
 ## GitHub Skyline
 
 [![Watch the video](https://skyline.github.com/lalitkumawat1m/2022)](https://skyline.github.com/lalitkumawat1m/2022)
- ![Uploading Annotation 2023-02-06 204334.png…]()
 
  
 <hr>
