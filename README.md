@@ -23,6 +23,11 @@
 
 - ⚡ Fun fact: I use tabs over spaces  
   
+- 📫 How to reach me:
+<a href="https://twitter.com/lalitkumawat1m"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://linkedin.com/in/lalit-kumawat-323700221/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:lalitkumawat1129@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  
 
 <br/>  
 <hr>
