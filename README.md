@@ -23,7 +23,7 @@
 
 - 📫 How to reach me:
 <a href="https://twitter.com/lalitkumawat1m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajaydha27250016" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lalit-kumawat-323700221/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://linkedin.com/in/lalit-kumawat-323700221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-dhangar-bb89b4227/" height="30" width="40" /></a>
 <a href="mailto:lalitkumawat1129@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
 
