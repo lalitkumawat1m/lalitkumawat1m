@@ -15,10 +15,10 @@
 
 # 💫 About Me:
 
-- 🌱 I’m currently learning MERN, DSA, Mobile Development  
+- 🌱 Exploring MERN, DSA, Mobile Development.  
   
 
-- ❓ Ask me about DSA, MERN stack and Mobile development related technologies  
+- ❓ Ask me about DSA, MERN stack and Mobile development related technologies.  
   
 
 - 📫 How to reach me:
@@ -28,11 +28,6 @@
   
 
 <br/>  
-<hr>
-
-
- 
-<hr>
 
 ##  💻 My Skill Set  
 <table><tr><td valign="top" width="33%">
