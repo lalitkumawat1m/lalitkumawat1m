@@ -86,7 +86,9 @@
 
 
 ## 🌐 Socials:
+<h1 align="center">
 Let's Connect <img src="GIF/Handshake.gif" width="24px">
+</h1>
 <div align="left">
 <a href="https://github.com/lalitkumawat1m" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
