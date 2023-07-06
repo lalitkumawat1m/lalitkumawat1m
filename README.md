@@ -116,12 +116,8 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lalitkumawat1m&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
  -->
 
-[![lalitkumawat1m's GitHub | Stats](https://stats.quine.sh/lalitkumawat1m/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=lalitkumawat1m)
-
-
-
-
 # 📊 GitHub Stats:
+[![lalitkumawat1m's GitHub | Stats](https://stats.quine.sh/lalitkumawat1m/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=lalitkumawat1m)
 ![](https://github-readme-stats.vercel.app/api?username=lalitkumawat1m&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lalitkumawat1m&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkumawat1m&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
