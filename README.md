@@ -22,7 +22,7 @@
 - Final year B-Tech at Mandsaur University (Majors in Computer Science)
 - 🌱 I'm currently learning **Web Development.**
 - 👯 I'm looking to collaborate on **Open Source Projects.**
-- 💬 Ask Me About Anything [here](https://github.com/lalitkumawat1m/lalitkumawat1m/issues/1) ! I am happy to help.
+- 💬 Ask Me About Anything [here](https://twitter.com/lalitkumawat1m) ! I am happy to help.
 - 📝 I write articles on **[Hashnode](https://lalitkumawat1m.hashnode.dev/)**
 - ⚡ Fun Fact : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 Journey Is : *𝙸𝚝 𝙴𝚗𝚍𝚜.***  
 - 📫 How to reach me:
