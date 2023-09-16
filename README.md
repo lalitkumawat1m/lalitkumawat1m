@@ -115,10 +115,6 @@
 
 <br/>  
 
-<!-- 
-## 📊 Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lalitkumawat1m&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
- -->
 
 # 📊 GitHub Stats:
 <div>
@@ -126,3 +122,5 @@
 <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lalitkumawat1m&layout=compact&langs_count=8&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Wesley's programming languages">
 </div>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
