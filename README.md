@@ -123,6 +123,7 @@
 
 # 📊 GitHub Stats:
 [![lalitkumawat1m's GitHub | Stats](https://stats.quine.sh/lalitkumawat1m/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=lalitkumawat1m)
+<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lalitkumawat1m&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&card_width=450" alt="Wesley's GitHub stats">
 ![](https://github-readme-stats.vercel.app/api?username=lalitkumawat1m&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lalitkumawat1m&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkumawat1m&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
