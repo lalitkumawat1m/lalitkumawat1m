@@ -19,7 +19,7 @@
 
 # 💫 About Me:
 
-- Final year B-Tech at Mandsaur University (Majors in Computer Science and Engineering)
+- Final year B-Tech at Mandsaur University (Majors in Computer Science)
 - 🌱 I'm currently learning **Web Development.**
 - 👯 I'm looking to collaborate on **Open Source Projects.**
 - 💬 Ask Me About Anything [here](https://github.com/lalitkumawat1m/lalitkumawat1m/issues/1) ! I am happy to help.
