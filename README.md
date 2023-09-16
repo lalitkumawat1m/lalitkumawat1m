@@ -20,11 +20,11 @@
 # 💫 About Me:
 
 - Final year B-Tech at Mandsaur University (Majors in Computer Science and Engineering)
-- 🌱 I'm currently learning **Web Development**
-- 👯 I'm looking to collaborate on **Open Source Projects**
+- 🌱 I'm currently learning **Web Development.**
+- 👯 I'm looking to collaborate on **Open Source Projects.**
 - 💬 Ask Me About Anything [here](https://github.com/lalitkumawat1m/lalitkumawat1m/issues/1) ! I am happy to help.
 - 📝 I write articles on **[Hashnode](https://lalitkumawat1m.hashnode.dev/)**
-- ⚡ Fun Fact : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***  
+- ⚡ Fun Fact : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 Journey Is : *𝙸𝚝 𝙴𝚗𝚍𝚜.***  
 - 📫 How to reach me:
 <a href="https://twitter.com/lalitkumawat1m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lalit-kumawat-323700221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
