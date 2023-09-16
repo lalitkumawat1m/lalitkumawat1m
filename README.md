@@ -90,25 +90,8 @@
 
 
 ## 🌐 Socials:
-<div align="left">
-<a href="https://github.com/lalitkumawat1m" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
- <a href="https://hashnode.com/@lalitkumawat1m" target="_blank">
-<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
-</a>  
-<a href="https://www.showwcase.com/lalitkumawat1m" target="_blank">
-<img src=https://img.shields.io/badge/showwcase-%232962FF.svg?logo=showwcase&logoColor=white alt=showwcase style="margin-bottom: 5px;" />
-</a>  
-  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@LalitKumawatTech)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/techkinglalit)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/techkinglalit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lalit-kumawat-323700221/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lalitkumawat1m) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lalitkumawat1m) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18380675/lalit-kumawat) 
-</div>  
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lalitkumawat1m)  
 
 <div align="left">
   <a href="https://twitter.com/lalitkumawat1m" target="_blank">
