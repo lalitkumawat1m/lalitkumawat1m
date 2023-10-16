@@ -1,7 +1,6 @@
 <div align="center">
 <img width="200" src="https://rishavanand.github.io/static/images/greetings.gif" align="center" />
 </div>  
-
   
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">, I'm Lalit Kumawat </h1>
 
@@ -10,6 +9,8 @@
 
 <div align="left">   
 <img src="https://komarev.com/ghpvc/?username=lalitkumawat1m&&style=flat-square" align="center" /> 
+
+# ![I'm Looking for a Job](https://img.shields.io/badge/I'm%20Looking%20for%20a%20Job-Open-brightgreen)
   
 ### [Connect with me 💬](https://bio.link/lalitkumawat)
 </div>  
