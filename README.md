@@ -1,8 +1,4 @@
 <div align="center">
-<img width="500" height="100" src="https://github.com/lalitkumawat1m/lalitkumawat1m/assets/91591901/80e61f6b-7c38-4559-a0ec-b926b1555f43" align="center" />
-</div>
-
-<div align="center">
 <img width="200" src="https://rishavanand.github.io/static/images/greetings.gif" align="center" />
 </div>  
 
