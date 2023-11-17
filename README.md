@@ -1,12 +1,10 @@
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">, I'm Lalit Kumawat </h1>
 
-
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/> 
-   
-
-
+ 
 <div align="left">   
-<img src="https://komarev.com/ghpvc/?username=lalitkumawat1m&&style=flat-square" align="center" /> 
+
+   <img src="https://komarev.com/ghpvc/?username=lalitkumawat1m&&style=flat-square" align="center" /> 
 
 # ![I'm Looking for a Job](https://img.shields.io/badge/I'm%20Looking%20for%20a%20Job-Open-brightgreen)
   
@@ -36,5 +34,3 @@ Feel free to reach out to me through LinkedIn or Twitter. I'm open to discussing
 <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lalitkumawat1m&layout=compact&langs_count=8&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Wesley's programming languages">
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lalitkumawat1m&show_icons=true&theme=yeblu" width="45%"  >
 </div>
-
-
