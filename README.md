@@ -1,7 +1,3 @@
-<div align="center">
-<img width="200" src="https://rishavanand.github.io/static/images/greetings.gif" align="center" />
-</div>  
-  
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">, I'm Lalit Kumawat </h1>
 
 
