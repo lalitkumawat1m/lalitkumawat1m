@@ -11,7 +11,7 @@
 ### [Connect with me 💬](https://bio.link/lalitkumawat)
 </div>  
 
-👋 Hello there! I'm actively seeking for a junior develeoper role and would love to hear from you if you have any exciting positions available.
+👋 Hello there! I'm actively seeking for a junior developer role and would love to hear from you if you have any exciting positions available.
 
 Feel free to reach out to me through LinkedIn or Twitter. I'm open to discussing potential collaborations and opportunities.
 
