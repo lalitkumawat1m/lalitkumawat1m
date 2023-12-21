@@ -22,7 +22,7 @@ Feel free to reach out to me through LinkedIn or Twitter. I'm open to discussing
 - 👯 I'm looking to collaborate on **Open Source Projects.**
 - 💬 Ask Me About Anything [here](https://twitter.com/lalitkumawat1m) ! I am happy to help.
 - 📝 I write articles on **[Hashnode](https://lalitkumawat1m.hashnode.dev/)**
-- ⚡ Fun Fact : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 Journey Is : *𝙸𝚝 𝙴𝚗𝚍𝚜.***  
+- ⚡ Fun Fact : **I Love Creating Content.**  
 - 📫 How to reach me:
 <a href="https://twitter.com/lalitkumawat1m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lalit-kumawat-323700221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
