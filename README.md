@@ -33,4 +33,7 @@ Feel free to reach out to me through LinkedIn or Twitter. I'm open to discussing
 <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lalitkumawat1m&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&card_width=450" alt="Wesley's GitHub stats">
 <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lalitkumawat1m&layout=compact&langs_count=8&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Wesley's programming languages">
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lalitkumawat1m&show_icons=true&theme=yeblu" width="45%"  >
+
+![](https://github-contributor-stats.vercel.app/api?username=lalitkumawat1m&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 </div>
