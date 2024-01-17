@@ -19,6 +19,9 @@ Feel free to reach out to me through LinkedIn or Twitter. I'm open to discussing
 
 - Final year B-Tech at Mandsaur University (Majors in Computer Science)
 - 🌱 I'm currently learning **Web Development.**
+- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
+- 👁‍🗨 What's Special about me?
+- Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
 - 👯 I'm looking to collaborate on **Open Source Projects.**
 - 💬 Ask Me About Anything [here](https://twitter.com/lalitkumawat1m) ! I am happy to help.
 - 📝 I write articles on **[Hashnode](https://lalitkumawat1m.hashnode.dev/)**
