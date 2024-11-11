@@ -14,7 +14,7 @@
 <a href="mailto:lalitkumawat1129@gmail.com"><code><img align="center" height="30" width="40" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"></code></a>
  - [All My Links 💬](https://bento.me/lalitkumawat)
 
-# 🧑‍💻 OSS contributions
+# 🧑‍💻 OSS Contributions
 #### 2024
  - https://github.com/json-schema-org/website/pull/565 -- Fix: navbar should close when user click anywhere on screen
  - https://github.com/json-schema-org/website/pull/520 -- Fix: Interlink terms in UJS with the glossary
