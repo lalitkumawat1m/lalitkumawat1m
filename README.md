@@ -11,7 +11,7 @@
 ### [All My Links 💬](https://bento.me/lalitkumawat)
 </div>  
 
-👋 Hello there! I'm actively seeking for a junior developer role and would love to hear from you if you have any exciting positions available.
+👋 Hello there! I'm actively seeking a junior developer role and would love to hear from you if you have any exciting positions available.
 
 Feel free to reach out to me through LinkedIn or Twitter. I'm open to discussing potential collaborations and opportunities.
 
@@ -22,7 +22,14 @@ Feel free to reach out to me through LinkedIn or Twitter. I'm open to discussing
 <a href="https://linkedin.com/in/lalit-kumawat-323700221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="mailto:lalitkumawat1129@gmail.com"><code><img align="center" height="30" width="40" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"></code></a>
 
+### OSS contributions
+#### 2024
+ - https://github.com/json-schema-org/website/pull/565 -- Fix: navbar should close when user click anywhere on screen
+ - https://github.com/json-schema-org/website/pull/520 -- Fix: Interlink terms in UJS with the glossary
 
+#### 2023
+ - https://github.com/aidenybai/million/issues/761 -- Feature: Kitchen Sink: Discount Calculator
+ - https://github.com/refinedev/refine/issues/4918 -- Request to Update Twitter Icon to X
   
 # 📊 GitHub Stats:
 <div>
