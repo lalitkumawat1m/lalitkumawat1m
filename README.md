@@ -8,7 +8,7 @@
 
 # ![I'm Looking for a Job](https://img.shields.io/badge/I'm%20Looking%20for%20a%20Job-Open-brightgreen)
   
-### [Connect with me 💬](https://bento.me/lalitkumawat)
+### [All My Links 💬](https://bento.me/lalitkumawat)
 </div>  
 
 👋 Hello there! I'm actively seeking for a junior developer role and would love to hear from you if you have any exciting positions available.
@@ -16,17 +16,7 @@
 Feel free to reach out to me through LinkedIn or Twitter. I'm open to discussing potential collaborations and opportunities.
 
 # 💫 About Me:
-
-- Final year B-Tech at Mandsaur University (Majors in Computer Science)
-- 🌱 I'm currently learning **Web Development.**
 - 👨‍💻 All of my projects are available [here](https://lalitkumawat.vercel.app/)
-- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
-- 👁‍🗨 What's Special about me?
-- Ability to quickly Learn and Master a new skill and to implement it to solve a real-time problem.
-- 👯 I'm looking to collaborate on **Open Source Projects.**
-- 💬 Ask Me About Anything [here](https://twitter.com/lalitkumawat1m) ! I am happy to help.
-- 📝 I write articles on **[Hashnode](https://lalitkumawat1m.hashnode.dev/)**
-- ⚡ Fun Fact : **I Love Creating Content.**  
 - 📫 How to reach me:
 <a href="https://twitter.com/lalitkumawat1m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lalit-kumawat-323700221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
