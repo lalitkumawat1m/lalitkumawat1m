@@ -8,7 +8,7 @@
 
 # ![I'm Looking for a Job](https://img.shields.io/badge/I'm%20Looking%20for%20a%20Job-Open-brightgreen)
   
-### [Connect with me 💬](https://bio.link/lalitkumawat)
+### [Connect with me 💬](https://bento.me/lalitkumawat)
 </div>  
 
 👋 Hello there! I'm actively seeking for a junior developer role and would love to hear from you if you have any exciting positions available.
@@ -31,6 +31,8 @@ Feel free to reach out to me through LinkedIn or Twitter. I'm open to discussing
 <a href="https://twitter.com/lalitkumawat1m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lalit-kumawat-323700221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="mailto:lalitkumawat1129@gmail.com"><code><img align="center" height="30" width="40" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"></code></a>
+
+
   
 # 📊 GitHub Stats:
 <div>
