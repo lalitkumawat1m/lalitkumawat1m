@@ -8,12 +8,8 @@
 
 # ![I'm Looking for a Job](https://img.shields.io/badge/I'm%20Looking%20for%20a%20Job-Open-brightgreen)
   
-### [All My Links 💬](https://bento.me/lalitkumawat)
+# [All My Links 💬](https://bento.me/lalitkumawat)
 </div>  
-
-👋 Hello there! I'm actively seeking a junior developer role and would love to hear from you if you have any exciting positions available.
-
-Feel free to reach out to me through LinkedIn or Twitter. I'm open to discussing potential collaborations and opportunities.
 
 # 💫 About Me:
 - 👨‍💻 All of my projects are available [here](https://lalitkumawat.vercel.app/)
